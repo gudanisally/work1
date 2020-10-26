@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "work1-8d11c": {
+      "hosting": {
+        "Work1": [
+          "work1-8d11c"
+        ]
+      }
+    }
+  }
+}
